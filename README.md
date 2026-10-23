@@ -109,6 +109,19 @@ Health details are sensitive. Use fictional sample data for demos and coursework
 
 This repository is suitable for learning and demonstration. Contributions that improve server-side validation, output-schema checks, safe failure states, emergency messaging, privacy documentation, tests, and verified deployment are welcome. Any clinical or real-world use requires appropriate expert review, safety controls, and legal/privacy assessment.
 
+## Team and My Role
+
+**Project Type:** Academic team project (Semester 7)  
+**Team Size:** 4 students
+
+**My Contributions:**
+- Contributed to the system workflow and overall application integration.
+- Supported AI integration with Google's Gemini API for generating health information reports.
+- Worked on connecting backend components and supporting report generation.
+- Contributed to the project report and technical documentation.
+
+**Project Guide:** Prof. S. P. Nikam
+
 ## License
 
 `package.json` declares the ISC license. No separate `LICENSE` file is currently present, so check with the project maintainers and add the corresponding license text before redistributing the project.
